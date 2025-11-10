@@ -140,8 +140,8 @@ via any medium, is strictly prohibited without the express written permission
 of the author.
 
 For permission or inquiries, please contact:
-📧 [[your-email@example.com](sartajalam565@gmail.com)]
-🔗 [[https://github.com/your-github-username](https://github.com/thesartajalam)]
+📧 [[sartajalam565@gmail.com](sartajalam565@gmail.com)]
+🔗 [[https://github.com/thesartajalam](https://github.com/thesartajalam)]
 
 ---
 
