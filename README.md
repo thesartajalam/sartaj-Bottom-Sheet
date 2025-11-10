@@ -29,7 +29,7 @@ Perfect for modals, forms, menus, or action sheets.
 Just copy the `BottomSheet.js` file into your project and import it where needed.  
 No extra libraries needed.
 
-```bash
+
 # Clone repo (optional)
 git clone https://github.com/your-username/react-native-custom-bottomsheet.git
 
@@ -96,7 +96,7 @@ export default function App() {
     </View>
   );
 }
-```
+
 
 ---
 
