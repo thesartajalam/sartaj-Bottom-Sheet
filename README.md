@@ -147,6 +147,5 @@ For permission or inquiries, please contact:
 
 ### 👨‍💻 Author
 
-**sartaj-Bottom-Sheet**
-Built with ❤️ using React Native Animated API.
+Built with ❤️ by **Sartaj Alam** using React Native Animated API.
 
