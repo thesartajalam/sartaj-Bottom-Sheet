@@ -1,7 +1,7 @@
 # sartaj-Bottom-Sheet
 A flexible, animated, and fully customizable bottom sheet component for React Native, built using the Animated API and PanResponder — no external dependencies required.
 
-````markdown
+
 # 🧩 React Native Custom Bottom Sheet
 
 A flexible, animated, and fully customizable **Bottom Sheet** component for React Native — built using only the **Animated API** and **PanResponder**.  
@@ -32,7 +32,7 @@ No extra libraries needed.
 ```bash
 # Clone repo (optional)
 git clone https://github.com/your-username/react-native-custom-bottomsheet.git
-````
+
 
 ---
 
@@ -123,17 +123,6 @@ You can easily modify:
 
 ---
 
-## 📸 Preview
-
-> *(Add screenshots or GIFs here showing the bottom sheet in action)*
-
-Example placeholder:
-
-```markdown
-![Demo Preview](./preview.gif)
-```
-
----
 
 ## 💬 Keywords
 
